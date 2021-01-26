@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./heade.component.css']
 })
 export class HeadeComponent implements OnInit {
+  
 
   constructor() { }
 
